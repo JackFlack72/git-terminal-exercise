@@ -1,7 +1,5 @@
 package com.pluralsight;
 // test commit comment
-//test branch comment
-//testing
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
